@@ -1,0 +1,24 @@
+{
+  "name": "geometry-dash-skin-loader",
+  "version": "1.0.0",
+  "description": "Load Geometry Dash skins, and easily reset them",
+  "main": "app.js",
+  "scripts": {
+    "app": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The0Show/geometry-dash-skin-loader.git"
+  },
+  "author": "The0Show",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/The0Show/geometry-dash-skin-loader/issues"
+  },
+  "homepage": "https://github.com/The0Show/geometry-dash-skin-loader#readme",
+  "dependencies": {
+    "electron": "^12.0.2",
+    "isdev": "^1.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
